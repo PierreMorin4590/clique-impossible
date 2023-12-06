@@ -12,7 +12,7 @@ const trickBox = {
 
     handleTrickBox: function(event) {
         // Petit test pour voir si la console affiche le message quand la souris arrive dans la div .trick-box
-        console.log("Quand on passe dans .trick-box");
+        console.log("Quand on passe dans .trick-box, ce message s'affiche dans la console !");
         // On sélectionne le bouton
         let selectButton = document.querySelector("#button");
         console.log(selectButton);
