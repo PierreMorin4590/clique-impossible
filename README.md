@@ -19,5 +19,5 @@ Les objectifs que je me suis fixé pour ce projet sont les suivants :
 
 ## Comment ça fonctionne ? 
 
-Quand on approche la souris du bouton, cette dernière entre dans une div nommée trick-box qui fait disparaître le bouton.
+Quand on approche la souris du bouton, cette dernière entre dans une div nommée trick-box qui fait disparaître le bouton.  
 Quand la souris sort de la div nommée trick-box, le bouton réapparait. 
